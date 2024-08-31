@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 
 **Explain what software engineering is and discuss its importance in the technology industry.**
 
-Software engineering is a field focused on designing, developing, testing, and maintaining software systems.
+Software engineering is a field that focuses on designing, developing, testing, and maintaining software systems.
 
 Importance of Software engineering are:-
 i). Ensuring high quality siftwares.
